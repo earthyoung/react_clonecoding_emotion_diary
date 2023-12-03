@@ -178,12 +178,12 @@ header button {
   font-weight: bold;
   font-size: 25px;
   margin-bottom: 5px;
-  font-family: "Noto Sans KR"
+  font-family: "Do Hyeon"
 }
 
 .DiaryItem .diary_content_preview {
   font-size: 18px;
-  font-family: "Noto Sans KR"
+  font-family: "Do Hyeon"
 }
 
 .DiaryItem .btn_wrapper {
@@ -214,7 +214,7 @@ header button {
   padding-left: 20px;
   padding-right: 20px;
   cursor: pointer;
-  font-family: "Noto Sans KR";
+  font-family: "Do Hyeon";
   font-size: 20px;
 }
 
